@@ -1,4 +1,1 @@
-2 2 
-
-0 0 
-No. of Provinces: 2
+No. of Islands: 4

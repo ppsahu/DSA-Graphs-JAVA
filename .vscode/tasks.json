@@ -4,7 +4,7 @@
         {
             "label": "compile and run",
             "type": "shell",
-            "command": "javac No_Of_Provinces.java && java No_Of_Provinces < input.txt > output.txt",
+            "command": "javac No_Of_Islands.java && java No_Of_Islands < input.txt > output.txt",
             "group": {
                 "kind": "build",
                 "isDefault": true
