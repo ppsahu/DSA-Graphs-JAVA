@@ -1,1 +1,10 @@
 Hi this is pratyush, I am here to learn and practice graphs. I will be programming in JAVA
+
+0 1 0 0 0 0 0 0
+1 0 1 0 0 0 0 0
+0 1 0 0 0 0 0 0
+0 0 0 0 1 0 0 0
+0 0 0 1 0 1 0 0
+0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 1
+0 0 0 0 0 0 1 0
