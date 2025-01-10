@@ -1,5 +1,1 @@
-X X X X 
-X X X X 
-X X X X 
-X X X X 
-X X O O 
+No. of lands enclaved: 3

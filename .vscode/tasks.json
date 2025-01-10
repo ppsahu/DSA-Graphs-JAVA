@@ -4,7 +4,7 @@
         {
             "label": "compile and run",
             "type": "shell",
-            "command": "javac Surrounded_Regions.java && java Surrounded_Regions < input.txt > output.txt",
+            "command": "javac No_Of_Enclaves.java && java No_Of_Enclaves < input.txt > output.txt",
             "group": {
                 "kind": "build",
                 "isDefault": true
