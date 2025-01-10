@@ -4,7 +4,7 @@
         {
             "label": "compile and run",
             "type": "shell",
-            "command": "javac _01_Matrix.java && java _01_Matrix < input.txt > output.txt",
+            "command": "javac Surrounded_Regions.java && java Surrounded_Regions < input.txt > output.txt",
             "group": {
                 "kind": "build",
                 "isDefault": true
