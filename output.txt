@@ -1,1 +1,1 @@
-No. of lands enclaved: 3
+No. of Distinct Islands: 1
