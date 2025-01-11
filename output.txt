@@ -1,1 +1,1 @@
-It's a Bipartite Graph
+No cycle detected
