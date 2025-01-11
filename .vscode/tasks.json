@@ -4,7 +4,7 @@
         {
             "label": "compile and run",
             "type": "shell",
-            "command": "javac Eventual_Safe_States.java && java Eventual_Safe_States < input.txt > output.txt",
+            "command": "javac Topological_Sort.java && java Topological_Sort < input.txt > output.txt",
             "group": {
                 "kind": "build",
                 "isDefault": true
