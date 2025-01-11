@@ -4,7 +4,7 @@
         {
             "label": "compile and run",
             "type": "shell",
-            "command": "javac No_of_Distinct_Island.java && java No_of_Distinct_Island < input.txt > output.txt",
+            "command": "javac Bipartite_Graph.java && java Bipartite_Graph < input.txt > output.txt",
             "group": {
                 "kind": "build",
                 "isDefault": true
