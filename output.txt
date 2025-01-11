@@ -1,1 +1,5 @@
-No cycle detected
+Safe Nodes are: 
+2
+4
+5
+6
