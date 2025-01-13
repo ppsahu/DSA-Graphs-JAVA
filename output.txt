@@ -1,1 +1,2 @@
-No Cycle Detected
+the safe nodes for the given graph are: 
+2 4 5 6 
