@@ -4,7 +4,7 @@
         {
             "label": "compile and run",
             "type": "shell",
-            "command": "javac Shortest_Path_Undirected_Graph.java && java Shortest_Path_Undirected_Graph < input.txt > output.txt",
+            "command": "javac Word_Ladder.java && java Word_Ladder < input.txt > output.txt",
             "group": {
                 "kind": "build",
                 "isDefault": true
