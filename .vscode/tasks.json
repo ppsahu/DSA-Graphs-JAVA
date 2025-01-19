@@ -4,7 +4,7 @@
         {
             "label": "compile and run",
             "type": "shell",
-            "command": "javac Word_Ladder.java && java Word_Ladder < input.txt > output.txt",
+            "command": "javac Dijkstra_Algorithm.java && java Dijkstra_Algorithm < input.txt > output.txt",
             "group": {
                 "kind": "build",
                 "isDefault": true
