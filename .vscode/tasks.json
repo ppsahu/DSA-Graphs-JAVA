@@ -4,7 +4,7 @@
         {
             "label": "compile and run",
             "type": "shell",
-            "command": "javac Shortest_Path_Dijkstras_Algo.java && java Shortest_Path_Dijkstras_Algo < input.txt > output.txt",
+            "command": "javac Shortest_Dist_Binary_Maze.java && java Shortest_Dist_Binary_Maze < input.txt > output.txt",
             "group": {
                 "kind": "build",
                 "isDefault": true
