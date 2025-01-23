@@ -4,7 +4,7 @@
         {
             "label": "compile and run",
             "type": "shell",
-            "command": "javac Shortest_Dist_Binary_Maze.java && java Shortest_Dist_Binary_Maze < input.txt > output.txt",
+            "command": "javac Path_With_Minimum_Effort.java && java Path_With_Minimum_Effort < input.txt > output.txt",
             "group": {
                 "kind": "build",
                 "isDefault": true
