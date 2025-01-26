@@ -1,1 +1,1 @@
-0
+Destination can be reached with distance: 500
